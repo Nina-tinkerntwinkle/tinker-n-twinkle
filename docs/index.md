@@ -3,6 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome
+# Tinker 'N Twinkle
 
 This is my documentation site.
