@@ -5,7 +5,7 @@
 - 1 LED light
 - 1 CR2032 Button Battery
 - Copper Tape
-- 1 copy of [template](https://raw.githubusercontent.com/Nina-tinkerntwinkle/tinker-n-twinkle/assets/files/simple_circuit_template.pdf)
+- 1 copy of [template](https://raw.githubusercontent.com/Nina-tinkerntwinkle/tinker-n-twinkle/main/assets/files/simple_circuit_template.pdf)
 
 ### Instructions: 
 **<ins>Step 1:</ins>** Lay the copper tape down, following the drawn out path on the template. 
