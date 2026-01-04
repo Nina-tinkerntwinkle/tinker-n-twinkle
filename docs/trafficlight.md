@@ -1,3 +1,8 @@
+---
+title: Traffic Light
+parent: Starter Course
+nav_order: 2
+---
 # Traffic Light
 
 ## Paper Circuit
