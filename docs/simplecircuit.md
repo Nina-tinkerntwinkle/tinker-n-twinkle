@@ -1,3 +1,9 @@
+---
+title: Simple Circuit
+parent: course
+nav_order: 1
+---
+
 # Simple Circuit
 
 ## Paper Circuit
