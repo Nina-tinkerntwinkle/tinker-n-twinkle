@@ -6,6 +6,6 @@
 - 3 LED Lights (red, yellow, green)
 - 1 CR2032 Button Battery
 - Copper Tape
-- 1 copy of [template](https://raw.githubusercontent.com/Nina-tinkerntwinkle/tinker-n-twinkle/main/assets/files/simple_circuit_template.pdf)
+- 1 copy of [template](https://raw.githubusercontent.com/Nina-tinkerntwinkle/tinker-n-twinkle/main/assets/files/traffic_light_template.pdf)
 
 ### Instructions: 
