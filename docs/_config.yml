@@ -5,5 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 url: https://Nina-tinkerntwinkle.github.io
 baseurl: /tinker-n-twinkle
 
+nav_sort: case_sensitive
+search_enabled: true
+
 logo: /pictures/logo.png
 search_enabled: true
