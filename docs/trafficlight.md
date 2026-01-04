@@ -9,3 +9,4 @@
 - 1 copy of [template](https://raw.githubusercontent.com/Nina-tinkerntwinkle/tinker-n-twinkle/main/assets/files/traffic_light_template.pdf)
 
 ### Instructions: 
+**<ins>Step 1:</ins.** 
