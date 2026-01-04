@@ -55,4 +55,14 @@ Notice that you don't need a battery. In this case, the Arduino is acting as the
 
 (insert diagram)
 
-We will use these to help us build the circuit. 
+We will use these to help us build the circuit. First, try to translate your circuit to the Arduino and breadboard setup yourself. Make sure to use the GND & 13 pins. Then, check your circuit against the circuit below. 
+
+(insert circuit diagram)
+
+Because Arduino is a microcontroller, you need to add some code to control the settings of the pins. This circuit contains an external switch (the pushbutton), which means that the Arduino should be constantly supplying power to the circuit. Click the "Code" button in the top right and use the blocks to write this piece of code: 
+
+(insert code) 
+
+Select the "Start Simulation" button in the top right corner and press the pushbutton to watch the LED light up! 
+
+Now that you've learned all about creating a simple circuit, it's time to move on to the next project: a traffic light! 
