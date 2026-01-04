@@ -1,6 +1,6 @@
 ---
 title: Simple Circuit
-parent: course
+parent: Starter Course
 nav_order: 1
 ---
 
