@@ -1,5 +1,6 @@
 ---
 title: Starter Course
+has_children: true
 nav_order: 2
 ---
 
